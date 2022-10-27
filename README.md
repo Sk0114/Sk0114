@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫 About Me:
 🔭 I’m currently working on my skills<br>👯 I’m looking to collaborate on 'Google'<br>📬 Email I'd : Kaifmd43@gmail.com<br>🌱 I’m currently learning 'Data Science'<br>🏫 I'm a student of 'Code For India'<br>⚡ Fun fact :- 'Slow  Steady ,wins race !
 
@@ -20,8 +18,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sk0114&icon=0&color=11)](https://visitcount.itsvg.in)
+
